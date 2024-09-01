@@ -1,5 +1,4 @@
 # <h1 align='center'> <font color='royalblue'><font size=6>Micro-Mobility Demand Analysis : Yulu Bikes</font> </font></h1>
-<h1 align='center'><font color='royalblue'><font size=6>Hypothesis Testing</font> </font></h1>
 
 ### 🚲Yulu: Zipping Through Indian Cities with Green Scooters
 
@@ -47,21 +46,24 @@ A vision of urban streets buzzing with eco-friendly rides, a vision of cleaner a
 
 ### 📃 Features of the dataset:
 
-- Column Profiling:
+    1. datetime: datetime
+    2. season: season (1: spring, 2: summer, 3: fall, 4: winter)
+    3. holiday: whether day is a holiday or not (extracted from http://dchr.dc.gov/page/holiday-schedule)
+    4. workingday: if day is neither weekend nor holiday is 1, otherwise is 0.
+    5. weather:
+      - Clear, Few clouds, partly cloudy, partly cloudy
+      - Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist
+      - Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds
+      - Heavy Rain + Ice Pallets + Thunderstorm + Mist, Snow + Fog
+    6. temp: temperature in Celsius
+    7. atemp: feeling temperature in Celsius
+    8. humidity: humidity
+    9. windspeed: wind speed
+    10. casual: count of casual users
+    11. registered: count of registered users
+    12. count: count of total rental bikes including both casual and registered
 
-| Feature | Description |
-|:--------|:------------|
-|datetime| datetime |  
-|season| season (1: spring, 2: summer, 3: fall, 4: winter)|
-|holiday| whether day is a holiday or not (extracted from http://dchr.dc.gov/page/holiday-schedule)|
-|workingday| if day is neither weekend nor holiday is 1, otherwise is 0.|
-|temp| temperature in Celsius|
-|atemp| feeling temperature in Celsius|
-|humidity| humidity|
-|windspeed| wind speed|
-|casual| count of casual users|
-|registered| count of registered users|
-|count - Total_riders| count of total rental bikes including both casual and registered|
+-----
 
 ## 📝 Case Report
 - You can access the complete Case Jupyter Notebook here - [ipynb](https://github.com/chopadeabhishek/dsmlFolio/blob/main/Micro-Mobility%20Demand%20Analysis/Yulu_hypothesisTesing.ipynb)
