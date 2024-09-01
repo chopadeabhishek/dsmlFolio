@@ -24,11 +24,8 @@
 
 A vision of urban streets buzzing with eco-friendly rides, a vision of cleaner air, and a vision of a future where getting around is effortless and green. So, next time you're in an Indian city, ditch the cab, skip the bus, and Yulu your way to a better future.
 
-**In a nutshell:** 
 
-    Yulu = Green Mobility. Indian cities = Grateful (and scooting!).
-
------
+------    
 
 ### Why this case study?
 
@@ -45,6 +42,8 @@ A vision of urban streets buzzing with eco-friendly rides, a vision of cleaner a
 - Which variables are significant in predicting the demand for shared electric cycles in the Indian market?
         
 - How well those variables describe the electric cycle demands.
+
+------    
 
 ### 📃 Features of the dataset:
 
@@ -63,4 +62,12 @@ A vision of urban streets buzzing with eco-friendly rides, a vision of cleaner a
 |casual| count of casual users|
 |registered| count of registered users|
 |count - Total_riders| count of total rental bikes including both casual and registered|
+
+## 📝 Case Report
+- You can access the complete Case python file here - [Python](https://github.com/chopadeabhishek/dsmlFolio/blob/main/Micro-Mobility%20Demand%20Analysis/Yulu_hypothesisTesing.ipynb)
+- You can access the complete Case study in pdf format here - [Report](https://github.com/chopadeabhishek/dsmlFolio/blob/main/Micro-Mobility%20Demand%20Analysis/Yulu_hypothesisTesing.pdf)
+
+    
+-----
+
 
