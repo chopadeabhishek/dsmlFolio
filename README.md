@@ -20,9 +20,9 @@ This portfolio is a curated collection of projects, notebooks, and analyses that
 
 ## 🌟 Featured Projects
 
-1. **Customer Churn Prediction**
-   - Built a model to predict customer churn with 92% accuracy
-   - Technologies: Python, Scikit-learn, XGBoost, Pandas
+1. **Micro-Mobility Demand Analysis : Statistical Hypothesis testing**
+   - Conducted demand analysis to optimize bike availability across different seasons & weathers, leading to a 15% increase in overall ridership.
+   - Technologies: Python, Numpy, Pandas, Seaborn, Matplotlib, Scipy.stats
 
 2. **Sentiment Analysis of Product Reviews**
    - Developed an NLP model to analyze sentiment in e-commerce reviews
