@@ -64,7 +64,7 @@ A vision of urban streets buzzing with eco-friendly rides, a vision of cleaner a
 |count - Total_riders| count of total rental bikes including both casual and registered|
 
 ## 📝 Case Report
-- You can access the complete Case python file here - [Python](https://github.com/chopadeabhishek/dsmlFolio/blob/main/Micro-Mobility%20Demand%20Analysis/Yulu_hypothesisTesing.ipynb)
+- You can access the complete Case Jupyter Notebook here - [ipynb](https://github.com/chopadeabhishek/dsmlFolio/blob/main/Micro-Mobility%20Demand%20Analysis/Yulu_hypothesisTesing.ipynb)
 - You can access the complete Case study in pdf format here - [Report](https://github.com/chopadeabhishek/dsmlFolio/blob/main/Micro-Mobility%20Demand%20Analysis/Yulu_hypothesisTesing.pdf)
 
     
